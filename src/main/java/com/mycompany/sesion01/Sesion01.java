@@ -14,6 +14,9 @@ public class Sesion01 {
     public static void main(String[] args) {
         //void es que no regresa ningun valor,es publico y es static
         //System es una clase,out objeto y println el metodo
+        btnSumar
+        
+       /* 
         Scanner teclado=new Scanner(System.in);
         //uso la clase scanner 
         Operacion operacion= new Operacion();
